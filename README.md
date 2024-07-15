@@ -78,7 +78,8 @@ LIMIT 10;
 ```
 ### Visualization
 
-<img src="">
+<img src="https://github.com/Lexi821/final_project_2M_cis467/blob/main/final_project_2M_cis467/Dashboard%202.png">
+
 ### Results
 
 The analysis results are summarized as follows:
