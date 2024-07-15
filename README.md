@@ -8,6 +8,7 @@
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
+- [Visualization](#visualization)
 - [Results](#results)
 - [Recommendations](#recommendations)
 
@@ -75,7 +76,9 @@ GROUP BY Country
 ORDER BY sales_revenue DESC
 LIMIT 10;
 ```
+### Visualization
 
+<img src="">
 ### Results
 
 The analysis results are summarized as follows:
