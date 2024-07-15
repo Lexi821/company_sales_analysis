@@ -1,4 +1,4 @@
-# E-Commerce Sales Analysis
+# Company Sales Analysis
 
 ## Table of Contents
 
@@ -9,21 +9,21 @@
 ### Project Overview
 ---
 
-This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+This data analysis project aims to provide insights into the sales performance of a company in the year of 1996-1998. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
 ![bar plot](https://github.com/Irene-arch/Documenting_Example/assets/56026296/5ebedeb8-65e4-4f09-a2a5-0699119f5ff7)
 
 
 ### Data Sources
 
-Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
+Sales Data: The primary dataset used for this analysis is the "final_project_2M_cis467.xls" file, containing detailed information about each sale made by the company.
 
 ### Tools
 
 - Excel - Data Cleaning
   - [Download here](https://microsoft.com)
 - SQL Server - Data Analysis
-- PowerBI - Creating reports
+- Tableau - Creating reports
 
 
 ### Data Cleaning/Preparation
@@ -38,7 +38,7 @@ In the initial data preparation phase, we performed the following tasks:
 EDA involved exploring the sales data to answer key questions, such as:
 
 - What is the overall sales trend?
-- Which products are top sellers?
+- Which category is the top seller?
 - What are the peak sales periods?
 
 ### Data Analysis
@@ -53,16 +53,16 @@ WHERE cond = 2;
 ### Results/Findings
 
 The analysis results are summarized as follows:
-1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
-2. Product Category A is the best-performing category in terms of sales and revenue.
-3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
+1. The company's sales are relatively stable, with a noticeable peak during the holiday season(Dec, Jan).
+2. "Dairy products" is the best-performing category in terms of sales, quantity and number of customers.
+3. The United States has the highest sales among all regions.
 
 ### Recommendations
 
 Based on the analysis, we recommend the following actions:
 - Invest in marketing and promotions during peak sales seasons to maximize revenue.
-- Focus on expanding and promoting products in Category A.
-- Implement a customer segmentation strategy to target high-LTV customers effectively.
+- Focus on expanding and promoting products in Dairy products.
+- focus on the U.S. market and increase promotion of high-selling products in this region, such as beverages and meat..
 
 ### Limitations
 
